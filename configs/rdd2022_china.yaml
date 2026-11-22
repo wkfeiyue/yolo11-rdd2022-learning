@@ -1,0 +1,8 @@
+path: datasets/RDD2022_china/test
+train: images
+val: images
+names:
+  0: Longitudinal Crack
+  1: Transverse Crack
+  2: Alligator Crack
+  3: Pothole

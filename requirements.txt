@@ -1,0 +1,14 @@
+# Python 依赖；建议使用 README §2 的 Python 3.10 环境
+ultralytics==8.4.0
+torch==2.0.1
+torchvision==0.15.2
+onnx==1.14.1
+onnxsim==0.7.3
+onnxruntime==1.23.2
+gradio==6.32.0
+fastapi==0.162.5
+uvicorn==0.54.0
+pyyaml==6.0.3
+opencv-python==4.8.1.78
+numpy==1.26.4
+python-multipart==0.0.32
